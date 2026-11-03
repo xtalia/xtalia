@@ -6,8 +6,8 @@
 
 что-то работающее:
 
-https://github.com/xtalia/independent-pip - более лучший способ смотреть видео в фоне в chrome подобных браузерах
-https://github.com/xtalia/downloads-sorter - сортировать файлы в папке загрузки по папкам
+* https://github.com/xtalia/independent-pip - более лучший способ смотреть видео в фоне в chrome подобных браузерах
+* https://github.com/xtalia/downloads-sorter - сортировать файлы в папке загрузки по папкам
 
 
 under construction:
@@ -18,7 +18,7 @@ under construction:
 
 
 форки:
-https://github.com/xtalia/voice-over-translation - навайбкодил улучшение громкости, мб уже ребята сделали и так.
+* https://github.com/xtalia/voice-over-translation - навайбкодил улучшение громкости, мб уже ребята сделали и так.
 
 
 наверно надо навайбкодить
